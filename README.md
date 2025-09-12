@@ -1,2 +1,6 @@
-# parsed-NSB-questions
-parsed questions from the DOE website for the National Science Bowl
+# National-Science-Bowl-Questions
+NSB questions from the official DOE website parsed using python scripts into a json file
+Currently contains high school sets 1, 2 and 3
+
+
+
